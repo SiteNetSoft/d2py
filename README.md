@@ -1,2 +1,2 @@
-# python_d2lang_diagram_generator
+# Python D2lang diagram generator
 Python D2 Lang diagram generator.
